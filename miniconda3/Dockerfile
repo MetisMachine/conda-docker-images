@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM ubuntu:18.04
 
 #  $ docker build . -t continuumio/miniconda3:latest -t continuumio/miniconda3:4.5.12
 #  $ docker run --rm -it continuumio/miniconda3:latest /bin/bash
